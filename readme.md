@@ -28,10 +28,10 @@ Run the script with a condensed formula as input:</br>
 ```
 python convert.py "CH3CH2OH"
 ```
-</br>
 Example Output:</br>
-Ethanol</br>
-
+Ethanol
+</br>
+</br>
 This program can handle more complex structures such as:</br>
 CH3COOH → Acetic acid</br>
 CH3CH(CH3)CH2OH → 2-Butanol</br>
