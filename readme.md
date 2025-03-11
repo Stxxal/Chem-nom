@@ -27,7 +27,8 @@ pip install rdkit
 Run the script with a condensed formula as input:</br>
 ```
 python convert.py "CH3CH2OH"
-```</br>
+```
+</br>
 Example Output:</br>
 Ethanol</br>
 
