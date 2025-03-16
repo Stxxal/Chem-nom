@@ -34,7 +34,7 @@ Ethanol
 </br>
 </br>
 This program can handle more complex structures such as:</br>
-CH3COOH → Acetic acid</br>
+CH3COOH → Ethanoic acid</br>
 CH3CH(CH3)CH2OH → 2-Butanol</br>
 CH3CH=CH2 → Propene</br>
 
