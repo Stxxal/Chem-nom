@@ -12,7 +12,7 @@ Chemical naming is essential in research, industry, and academia. Manual convers
 ✔ Handles a wide range of organic compounds </br>
 ✔ Command-line interface for easy use
 
-Installation
+## Installation
 Make sure Python is installed, then follow these steps:
 
 ```
@@ -22,6 +22,7 @@ cd condensed-to-iupac
 
 pip install rdkit
 ```
+
 
 ## Usage
 Run the script with a condensed formula as input:</br>
@@ -37,6 +38,8 @@ CH3COOH → Acetic acid</br>
 CH3CH(CH3)CH2OH → 2-Butanol</br>
 CH3CH=CH2 → Propene</br>
 
+## Rules 
+The program follows IUPAC naming rules for organic compounds. It can handle various functional groups, substituents, and complex structures. The generated names are accurate and consistent with standard nomenclature guidelines.
 
 ## License
 Apache License January 2004
